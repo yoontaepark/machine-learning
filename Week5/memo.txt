@@ -1,0 +1,4 @@
+Contents including
+- Cost Function and Backpropagation
+- Backpropagation in Practice
+- Application of Neural Networks
